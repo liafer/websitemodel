@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <header>
             <Link className='home'
-                to="/websitemodel"
+                to="/"
                 smooth={true}
                 offset={50}
                 duration={500}>Home
