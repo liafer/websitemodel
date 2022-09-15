@@ -7,7 +7,7 @@ export default function RoutesApp() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/website" element={<Home />} />
+                <Route path="/websitemodel" element={<Home />} />
             </Routes>
         </BrowserRouter>
     )
