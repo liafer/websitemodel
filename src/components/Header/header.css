@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    height: 80px;
+    gap: 30px;
+    font-size: 20px;
+}
+
+header a {
+    cursor: pointer;
+}
+
+.home {
+    text-decoration: none;
+    color: black;
+}
+
+.home:hover {
+    color: black;
+    transform: scale(1.10);
+}
+
+.services {
+    text-decoration: none;
+    color: black;
+}
+
+.services:hover {
+    color: black;
+    transform: scale(1.10);
+}
+
+.pricing {
+    text-decoration: none;
+    color: black;
+    margin-right: 100px;
+    border: 2px solid #6e07f3;
+    padding: 14px;
+    border-radius: 25px;
+}
+
+.pricing:hover {
+    color: black;
+    transform: scale(1.10);
+}
