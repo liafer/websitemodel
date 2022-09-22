@@ -6,7 +6,6 @@ import techGirl from '../../images/undraw_girl.svg'
 import Pricing from '../../components/Pricing'
 import Footer from '../../components/Footer'
 import Services from '../../components/Services'
-import { BsCodeSlash } from 'react-icons/bs'
 
 
 export default function Home() {
@@ -14,8 +13,6 @@ export default function Home() {
         <div id='container-home'>
             <div className='container'>
                 <Header />
-
-                <BsCodeSlash color='purple' size={70} />
 
                 <div id='hero'>
                     <div className='content'>
