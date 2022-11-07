@@ -17,7 +17,7 @@ export default function Home() {
                 <div id='hero'>
                     <div className='content'>
                         <div className='intro'>
-                            <h1>Web Design & Development. </h1>
+                            <h1>Web Design & Development </h1>
                             <span>Start your project today!</span>
 
                             <a className='projects-link' href="#pricing">Get Started</a>

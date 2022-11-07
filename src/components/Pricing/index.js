@@ -7,8 +7,8 @@ export default function Pricing() {
             <h1>Our Pricing</h1>
             <div id="cards">
                 <div className="card-left">
-                    <h2>Free</h2>
-                    <h3>$0</h3>
+                    <h2>Basic</h2>
+                    <h3>$5</h3>
                     <p>Lorem Ipsum </p><hr></hr>
                     <p>Lorem Ipsum </p><hr></hr>
                     <p>Lorem Ipsum</p><hr></hr>
@@ -16,8 +16,8 @@ export default function Pricing() {
                     <button><strong>GET STARTED</strong></button>
                 </div>
                 <div className="card-middle">
-                    <h2>Basic</h2>
-                    <h3>$9.99</h3>
+                    <h2>Standard</h2>
+                    <h3>$10</h3>
                     <p>Lorem Ipsum </p><hr></hr>
                     <p>Lorem Ipsum</p><hr></hr>
                     <p>Lorem Ipsum</p><hr></hr>
@@ -26,7 +26,7 @@ export default function Pricing() {
                 </div>
                 <div className="card-right">
                     <h2>Premium</h2>
-                    <h3>$19.99</h3>
+                    <h3>$15</h3>
                     <p>Lorem Ipsum </p><hr></hr>
                     <p>Lorem Ipsum </p><hr></hr>
                     <p>Lorem Ipsum </p><hr></hr>
